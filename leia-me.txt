@@ -1,0 +1,49 @@
+Projeto de Sistema Web feito por mim, através de um curso da Caelum utilizando PHP + Mysql
+
+
+Conteúdo do curso :
+
+
+Primeiros passos com PHP
+
+Inserindo produtos no banco de dados
+
+Criando Funções no PHP
+
+Listando todos os produtos
+
+Melhorando a listagem de produtos
+
+Deletando produtos
+
+Entendendo a diferença entre GET e POST
+
+Relacionando Produtos com Categorias
+
+Lidando com Selects e Checkboxes
+
+Alterando produtos
+
+Subindo a aplicação para um Servidor
+
+Uma ação de login
+
+Efetuando o login e cookies
+
+Protegendo o acesso as páginas, refatorando e extraindo a lógica
+
+Insegurança com cookie, segurança com session e efetuando logout
+
+Passando parâmetros para a próxima requisição
+
+Refatoração, escopo de flash e controle de erro
+
+Um único formulário para adicionar e alterar
+
+SQL Injection
+
+Include, require, require_once
+
+Envio de email via SMTP
+
+
